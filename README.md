@@ -8,6 +8,7 @@
 #### 🤝 I'm looking to collab on...
 - All things distributed systems, peer to peer and trust minimisation
 - Novel applications of decentralised computing and defi
+- Anything cool that might leverage my experience as a full stack engineer
 
 #### 🤔 Things that make me go "hmm"...
 - [Rico, a non fiat stable financial primitive](https://bank.dev/)
