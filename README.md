@@ -1,9 +1,7 @@
-### 👋 Howdy, I'm Chris
+### 👋 Hi I'm Chris
 
 #### 🔭 I’m currently working on ...
-- A way to scale atomic swaps using option decay functions
 - co-organising [Eth Melbourne](https://ethmelbourne.co/)
-- More coming Soon(tm)
 
 #### 🤝 I'm looking to collab on...
 - All things distributed systems, peer to peer and trust minimisation
